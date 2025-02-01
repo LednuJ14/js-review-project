@@ -1,4 +1,2 @@
-# JavaScript Review Project by write_your_name
-Hashdahsd alsfjalskdja alskd aslkd
-alksddsa
+# JavaScript Review Project by Jun-del S. Patuasic
 This project is a review of JavaScript concepts, from beginner to advanced.
